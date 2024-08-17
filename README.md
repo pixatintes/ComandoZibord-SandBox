@@ -4,4 +4,4 @@ Funciona amb FoundryVTT, gràcies a Sandbox. Per tant, per utilitzar aquest món
 
 Sandbox dona problemes a Foundry 12, recomano utilitzar-lo a la versió 11.
 
-Per instal·lar-lo aneu a 'instal·lar món' i a URL del Manifest: https://raw.githubusercontent.com/pixatintes/ComandoZibord-SandBox/main/world.json 
+Per instal·lar-lo aneu a 'instal·lar món' i a URL del Manifest: https://raw.githubusercontent.com/pixatintes/ComandoZiborg-SandBox/main/world.json 
