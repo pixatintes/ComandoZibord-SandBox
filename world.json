@@ -1,19 +1,20 @@
 {
   "title": "Comando Ziborg",
-  "id": "Comando_Ziborg-sandbox",
-  "authors": [
+   "authors": [
     {
       "name": "pixatintes",
       "flags": {}
     }
   ],
+  "url": "https://github.com/pixatintes/ComandoZibord-SandBox/",
   "system": "sandbox",
-  "manifest": "https://github.com/pixatintes/ComandoZibord-SandBox/raw/main/world.json",
-  "download": "https://codeload.github.com/pixatintes/ComandoZibord-SandBox/zip/main",
+  "manifest": "https://raw.githubusercontent.com/pixatintes/ComandoZibord-SandBox/main/world.json",
+  "download": "https://github.com/pixatintes/ComandoZibord-SandBox/archive/refs/heads/main.zip",
   "joinTheme": "default",
   "coreVersion": "11.315",
   "resetKeys": false,
   "safeMode": false,
+  "id": "Comando_Ziborg-sandbox",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
