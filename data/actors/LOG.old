@@ -1,0 +1,25 @@
+2024/08/17-12:13:41.942349 e24e22fdf0a0 Delete type=3 #1
+2024/08/17-13:07:05.337080 e24e227cf0a0 Level-0 table #5: started
+2024/08/17-13:07:05.353654 e24e227cf0a0 Level-0 table #5: 1107817 bytes OK
+2024/08/17-13:07:05.356015 e24e227cf0a0 Delete type=0 #3
+2024/08/17-13:30:49.309089 e24e227cf0a0 Level-0 table #7: started
+2024/08/17-13:30:49.326441 e24e227cf0a0 Level-0 table #7: 1168943 bytes OK
+2024/08/17-13:30:49.328604 e24e227cf0a0 Delete type=0 #4
+2024/08/17-13:52:53.121709 e24e227cf0a0 Compacting 1@1 + 1@2 files
+2024/08/17-13:52:53.130579 e24e227cf0a0 Generated table #8@1: 5 keys, 73363 bytes
+2024/08/17-13:52:53.130592 e24e227cf0a0 Compacted 1@1 + 1@2 files => 73363 bytes
+2024/08/17-13:52:53.132810 e24e227cf0a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/17-13:52:53.132997 e24e227cf0a0 Delete type=2 #7
+2024/08/17-13:52:53.133331 e24e227cf0a0 Delete type=2 #5
+2024/08/17-13:54:11.630753 e24e227cf0a0 Level-0 table #10: started
+2024/08/17-13:54:11.648079 e24e227cf0a0 Level-0 table #10: 1153550 bytes OK
+2024/08/17-13:54:11.650094 e24e227cf0a0 Delete type=0 #6
+2024/08/17-13:54:11.651391 e24e227cf0a0 Manual compaction at level-0 from '!actors!6XRgCWOkXdjbrGvT' @ 72057594037927935 : 1 .. '!actors!uLyyicAOZClfhYyF' @ 0 : 0; will stop at (end)
+2024/08/17-13:54:11.660186 e24e227cf0a0 Manual compaction at level-1 from '!actors!6XRgCWOkXdjbrGvT' @ 72057594037927935 : 1 .. '!actors!uLyyicAOZClfhYyF' @ 0 : 0; will stop at '!actors!uLyyicAOZClfhYyF' @ 325 : 1
+2024/08/17-13:54:11.660195 e24e227cf0a0 Compacting 1@1 + 1@2 files
+2024/08/17-13:54:11.666229 e24e227cf0a0 Generated table #11@1: 7 keys, 87073 bytes
+2024/08/17-13:54:11.666240 e24e227cf0a0 Compacted 1@1 + 1@2 files => 87073 bytes
+2024/08/17-13:54:11.668098 e24e227cf0a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/17-13:54:11.668245 e24e227cf0a0 Delete type=2 #10
+2024/08/17-13:54:11.668450 e24e227cf0a0 Delete type=2 #8
+2024/08/17-13:54:11.668673 e24e227cf0a0 Manual compaction at level-1 from '!actors!uLyyicAOZClfhYyF' @ 325 : 1 .. '!actors!uLyyicAOZClfhYyF' @ 0 : 0; will stop at (end)
