@@ -1,5 +1,5 @@
 {
-  "title": "Comando Ziborg",
+  "title": "Comando Zíborg",
    "authors": [
     {
       "name": "pixatintes",
@@ -8,8 +8,8 @@
   ],
   "url": "https://github.com/pixatintes/ComandoZibord-SandBox/",
   "system": "sandbox",
-  "manifest": "https://raw.githubusercontent.com/pixatintes/ComandoZibord-SandBox/main/world.json",
-  "download": "https://github.com/pixatintes/ComandoZibord-SandBox/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/pixatintes/ComandoZiborg-SandBox/main/world.json",
+  "download": "https://github.com/pixatintes/ComandoZiborg-SandBox/archive/refs/heads/main.zip",
   "joinTheme": "default",
   "coreVersion": "11.315",
   "resetKeys": false,
